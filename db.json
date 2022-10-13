@@ -1,20 +1,20 @@
 {
  	"results": [{
- 			"date": 1933389198,
+ 			"date": "1933389198",
  			"company": "Silver Mining",
       "score": "87",
  			"id": "16e45"
       "cluster": "1"
  		},
  		{
- 			"date": 1933489178,
+ 			"date": "1933489178",
  			"company": "Merlin Inc",
       "score": "76",
  			"id": "15da3"
       "cluster": "2"
  		},
  		{
- 			"date": 1933589198,
+ 			"date": "1933589198",
  			"company": "Samsung",
       "score": "83",
  			"id": "1e233"
